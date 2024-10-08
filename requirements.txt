@@ -13,7 +13,7 @@ colorama==0.4.6
 dataclasses==0.6
 datasets==2.20.0
 dill==0.3.8
-Django==4.2
+Django==4.2.16
 django-cors-headers==4.4.0
 django-filter==24.2
 djangorestframework==3.15.2
